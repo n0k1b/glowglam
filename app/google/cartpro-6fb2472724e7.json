@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cartpro",
+  "private_key_id": "6fb2472724e7348fc95f86ce5f70997c20d714cf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAmUpuPFyVGXDk\nhNVWeil0rNquEb+Di9vY/09y60nfkfype+FD6CmXJwZlrRtbklI+rtUvOQIsA/3p\nvulLjvnPfW2Wvw2osFQhxnTQvp4aDYMktK0eioE8RCJLoh5ZrdAggnVnqiXQ0MxR\nU3MR4j9QoOzypveFoE+2MEx72FdQubtE2vMDER0UpeOCv64qJdEoIP0BnEf9kNc9\nwfjMENHHZDGIeHGllokzb+9D4aLWEbQAesAIzhrLCuMMjHwl7TFUU0D5W6KsGhub\nbJdpUkT7UZq8J2Yd92dGxWdITh2rTSvd4c5m0DBqjyHsBK8eZRguTMqqoSGf0eXK\nr0+yQjLdAgMBAAECggEAD8yjZ/PzWQHWGnubxUp5MHU7l9r53cXb2kBmGT8cTMb8\n4JRlJX0b6FE5u56IkimogzQ0EHnPPU1zMg5zXzuShPG89d2ktl6x+sv9FOCw4eHo\n4lp19yg/3hyYFEyaIRuFPsgk7xpB8ZAnVVE7V89lB+1jnVY9aOH+mACnTY4w6idl\n4val9iVReRbXypI+defHi7awVonKhw+pugVsUIPFUYuwylfor4PdIbJ5Ox1/brVn\nJ9GBQQe/cYHSJQ5/SNl9bk3BEtx+OMBmKxV/sgn5fFyRYKnKsQnLriZX+USy+rfb\nsY6P6lA6R2Wmtutlscleo9SMDGHcK+DYdxHv0YlwCwKBgQDjsWs8CmK3ECkosGvq\nJshgW++eIzKGt+xZ3od9ZOH6YGNhYZMq92g3+drCvyVLng1oLuxurAntkZ0mUQ/9\nZ4QacYmim6DYnTNYg5BEer+jdQyD01ebT7EnSdkHnS/8Wjhd5uhKoFLxhaYzYNgM\nvTnRPWRJNt1DauZlswvq7wNFXwKBgQDYivVzxuZNxtLDuOPKm+eGpYAWgMpyfuzi\n8H6dX4tSmw6CzbLKyoDKt+AYe693P2fEjupZ6HXWzVselZmKm5zgQzJHqjdWR8JM\nfJBYQV8jqcYvadz1Gy9yVI3tIojKJhUYLkc6Wt/prz2C3G+0xmak01Acha5+Oucu\nu9okq7HVQwKBgA8CQu9SP++RQSVNe8+TfuHbLZBfAZWfyhSidovtenfmoqZoqCrM\n5DHMZn8v2mWBpaCYdz1UWdMvJgzAiy1JBYw4r7noSFH/CsNq6Lea38cGkCygYcX7\nGtJcK9I0qlUYHV8TOXyx1MXW6X25hIRSdN02DsZEt5EaGtXZV4/E8ZJBAoGBALXL\nE337geXSAafnVPYIJTvZPcumnE+7V0y+8s1UJTdYjboqzuuJTs7hx/VGAW1vgcJ2\n6TBKBIQtK05l8d13/yAXyeJ4eLSq0eg8u0Icv67FHWk4yxPLmu21JuHqmER97D+8\nune3Szx4rn9qaS2vUwUVkrAfWvsGoIePlfgrXMTZAoGAFt+7vMDz/zEdhpzH4J4Z\nA018guP1nZVYosBXEyMCpweNLnnPgohlrEkCZFwIUDmdmg+UZ6zhN08Hd7KBb82D\nP/eVBStUsNr2vtVUpxSeRae4q47z/JHHNueCBNlmY6bfem5QsWTYYBGxRmR3x1Ic\nihjEUtkDYYOysoGXdBEQXzE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cartpro@cartpro.iam.gserviceaccount.com",
+  "client_id": "101453403334226395563",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cartpro%40cartpro.iam.gserviceaccount.com"
+}
